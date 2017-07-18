@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Richardo8/webpack2#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^0.1.16",
     "css-loader": "^0.28.4",
     "file-loader": "^0.11.2",
     "style-loader": "^0.18.2",
